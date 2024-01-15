@@ -1,7 +1,7 @@
 ---
 name: "\U0001f4c7 Collection Maintenance"
 about: "Group(s) of tasks"
-title: "\U0001f4c7 c-XXX: <goal> maintenance 2024 Q1"
+title: "\U0001f4c7 c-<team_alias>: <goal> maintenance 2024 Q1"
 ---
 
 ## Summary
@@ -12,7 +12,7 @@ This is a maintenance collection that contains one ore more groups of tasks. Rem
 
 ## Task Group(s)
 
-### XXX tasks:
+### <team_alias> tasks:
 - [ ] 
 
 <!-- Please Group your tasks after type. This will help you out to keep groups for multiple types or multiple repositories within one single Team.

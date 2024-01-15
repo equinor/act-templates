@@ -1,14 +1,14 @@
 ---
 name: "\U0001f680 Team"
 about: "Team name. Contains information about  people, timewriting, short description and team goals."
-title: "\U0001f680 <Team_Name>"
+title: "\U0001f680 <team_name>"
 
 ---
-### <Team_name> `<ALIAS>`
+### <team_name> `<team_alias>`
 
 #### Timewriting
 
-Azure Champions Team FTE granted: `<Number>`
+Azure Champions Team FTE granted: `<number>`
 
 SAP info:
 
@@ -34,7 +34,7 @@ Link to Equinor docs for project timewriting: <link_to_webpage>
 
 ## Goals
 
-> IaC - Infrastructure provisioning and maintenence
+> IaC - Infrastructure provisioning and maintenance
 
 - [ ] :trophy: g-<team_alias>: IaC
 - [ ] :trophy: g-<team_alias>: Backup

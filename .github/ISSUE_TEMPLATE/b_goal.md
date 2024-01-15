@@ -4,7 +4,7 @@ about: "Team Goal. Represents one specific delivery area from Azure Champions to
 title: "\U0001f3c6 g-<team_alias>: <IaC|Backup|Monitoring|Disaster Recovery>"
 
 ---
-### :trophy:Goal: <Goal_Type>
+### :trophy:Goal: <goal_type>
 
 #### Description
 
@@ -12,4 +12,4 @@ This goal represents <goal_type> delivery from Azure Champions to the  <Team_Nam
 
 ## Epics
 
-- [ ] :crown: e-<alias>:
+- [ ] :crown: e-<team_alias>:

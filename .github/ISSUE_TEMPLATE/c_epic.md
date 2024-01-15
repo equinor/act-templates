@@ -1,7 +1,7 @@
 ---
 name: "\U0001f451 Epic"
 about: "Member of a specific Team goal. It consists of one or more task-collections"
-title: "\U0001f451 e-XXX:"
+title: "\U0001f451 e-<team_alias>:"
 ---
 
 ## Summary
@@ -15,4 +15,4 @@ title: "\U0001f451 e-XXX:"
 
 ## List of Collections
 
-- [ ] :card_index: c-XXX:
+- [ ] :card_index: c-<team_alias>:
