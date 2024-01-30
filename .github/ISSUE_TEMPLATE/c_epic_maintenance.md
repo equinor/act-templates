@@ -6,7 +6,7 @@ title: "\U0001f451 e-<team_alias>: Maintenance 2024"
 
 ## Summary
 
-DevOps link: `none` <!-- Example: AB#<item_number> -->
+DevOps link: none <!-- Example: AB#<item_number> -->
 
 This Epic represents all Collections and single tasks for maintenance. This is a place where we can set together Collections for all types: Monitoring, IaC, Backup and Disaster Recovery.
 

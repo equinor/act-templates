@@ -6,7 +6,7 @@ title: ''
 
 ## Summary
 
-> DevOps link: `none` <!-- Example: AB#<item_number> -->
+> DevOps link: none <!-- Example: AB#<item_number> -->
 
 ## To do
 
