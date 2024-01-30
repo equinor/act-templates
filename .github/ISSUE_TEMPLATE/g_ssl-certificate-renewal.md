@@ -6,9 +6,6 @@ labels: 'ssl-certificate'
 assignees: ''
 ---
 
-> **Warning**
-> Avoid pasting images in issues!
-
 ## Description
 
 Renew SSL Certificate for `<DOMAIN>`.equinor.com

@@ -6,9 +6,6 @@ labels: 'sqldb-export'
 assignees: ''
 ---
 
-> **Warning**
-> Avoid pasting images in issues!
-
 ## Description
 
 Error on Runbook for SQL Database: `DATABASE_NAME`.
