@@ -7,7 +7,7 @@ version: "v1.0.1"
 
 ## Summary
 
-DevOps link: `none` <!-- Example: AB#<item_number> -->
+DevOps link: none <!-- Example: AB#<item_number> -->
 
 ## Acceptance criteria
 - 
