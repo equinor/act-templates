@@ -21,7 +21,7 @@ No input
 #### Task collection(s)
 <!--
 Copy/paste value in next line to add more collections in this list:
-- [ ] :card_index: c-<team_alias>:
+- [ ] :card_index: mc-<team_alias>:
  -->
 
-- [ ] :card_index: c-<team_alias>:
+- [ ] :card_index: mc-<team_alias>:
