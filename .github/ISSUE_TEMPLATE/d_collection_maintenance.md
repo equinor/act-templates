@@ -6,7 +6,7 @@ title: "\U0001f4c7 mc-<team_alias>:"
 
 ## Purpose
 
-This is a maintenance collection that contains one ore more groups of tasks. Remember that this is a maintenance collection that needs to be closed inside the current quarter of this year. If some of the tasks here cannot be closed, please transfer the task into the next quarter :card_index: maintenance collection for this project.
+This is a maintenance collection that contains one or more groups of tasks. Remember that this is a maintenance collection that needs to be closed inside the current quarter of this year. If some of the tasks here cannot be closed, please transfer the task into the next quarter :card_index: maintenance collection for this project.
 
 > Remember the goal type of your tasks here. If any existing tasks are related to another :trophy: Goal type, they should be moved to respective :crown: Epic ->  inside that specific :card_index: maintenance collection.
 
