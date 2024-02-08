@@ -10,7 +10,7 @@ title: "\U0001f680 <team_name>"
 
 Azure Champions Team FTE granted: `<number>`
 
-<Team_Name> SAP timewriting:
+<team_name> SAP timewriting:
 
 | Send.order | Item | Receiver WBS Element | Activity number |
 | ---------- | ---- | -------------------- | --------------- |
