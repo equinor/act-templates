@@ -12,7 +12,7 @@ This is a maintenance collection that contains one ore more groups of tasks. Rem
 
 ### Summary
 
-> DevOps link: `none` <!-- Example: AB#<item_number> -->
+> DevOps link: none <!-- Example: AB#<item_number> -->
 
 No input
 
