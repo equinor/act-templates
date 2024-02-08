@@ -4,10 +4,20 @@ about: "Group(s) of tasks"
 title: "\U0001f4c7 c-<team_alias>:"
 ---
 
-## Summary
+### Summary
 
-DevOps link: none <!-- Example: AB#<item_number> -->
+> DevOps link: `none` <!-- Example: AB#<item_number> -->
 
-## Tasks
+No input
 
-- [ ] 
+#### Acceptance Criteria
+
+- None
+
+#### Task(s)
+
+- [ ] None
+
+#### Pull Requests
+
+- [ ] None

@@ -1,15 +1,21 @@
 ---
 name: 'Task'
-about: 'Member of a Collection. Represents a single Pull Request or one manual operation. Use conventional commits with prefix t-act: feat|fix|chore(<environment>): <short name>'
+about: 'Member of a Collection. Represents a single Pull Request or one manual operation.'
 title: ''
 ---
 
-## Summary
+### Summary
 
-> DevOps link: none <!-- Example: AB#<item_number> -->
+> DevOps link: `none` <!-- Example: AB#<item_number> -->
+
+No input
+
+#### Acceptance Criteria
+
+- None
 
 ## To do
 
 - [ ]
 
-<!-- Please remember to create branch from this issue to make sure Pull Request closes this issue automatically. -->
+> Please remember to create branch from this issue to make sure Pull Request closes this issue automatically. Use conventional commits. [Link](https://www.conventionalcommits.org/en/v1.0.0/)

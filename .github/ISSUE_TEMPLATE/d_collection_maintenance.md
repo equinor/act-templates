@@ -1,7 +1,7 @@
 ---
 name: "\U0001f4c7 Collection Maintenance"
 about: "Group(s) of tasks"
-title: "\U0001f4c7 mc-<team_alias>: "
+title: "\U0001f4c7 mc-<team_alias>:"
 ---
 
 ## Purpose
