@@ -5,17 +5,24 @@ title: "\U0001f451 e-<team_alias>:"
 version: "v1.0.1"
 ---
 
-## Summary
+## Purpose
 
-DevOps link: none <!-- Example: AB#<item_number> -->
+This :crown: Epic represents all :card_index: Task Collections for one User Story inside :trophy: goal mentioned in the title of this issue.
 
-## Acceptance criteria
-- 
+### Summary
 
-**Optional**
-- 
+> DevOps link: none <!-- Example: AB#<item_number> -->
 
+No input
 
-## List of Collections
+#### Acceptance Criteria
+
+- None
+
+#### Task collection(s)
+<!--
+Copy/paste value in next line to add more collections in this list:
+- [ ] :card_index: c-<team_alias>:
+ -->
 
 - [ ] :card_index: c-<team_alias>:
