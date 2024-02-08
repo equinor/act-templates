@@ -18,4 +18,4 @@ No input
 
 - [ ]
 
-> Please remember to create branch from this issue to make sure Pull Request closes this issue automatically. Use conventional commits. [Link](https://www.conventionalcommits.org/en/v1.0.0/)
+> Please remember to create branch from this issue to make sure Pull Request closes this issue automatically. Use conventional commits. [GitHub Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/), [Cyclops Documentation](https://urban-waffle-59ea765a.pages.github.io/issues/)
