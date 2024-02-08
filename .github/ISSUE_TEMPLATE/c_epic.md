@@ -5,17 +5,16 @@ title: "\U0001f451 e-<team_alias>:"
 version: "v1.0.1"
 ---
 
-## Summary
+### Summary
 
-DevOps link: none <!-- Example: AB#<item_number> -->
+> DevOps link: `none` <!-- Example: AB#<item_number> -->
 
-## Acceptance criteria
-- 
+No input
 
-**Optional**
-- 
+#### Acceptance Criteria
 
+- None
 
-## List of Collections
+#### Task collection(s)
 
 - [ ] :card_index: c-<team_alias>:
