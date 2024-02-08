@@ -5,6 +5,10 @@ title: "\U0001f451 e-<team_alias>:"
 version: "v1.0.1"
 ---
 
+## Purpose
+
+This :crown: Epic represents all :card_index: Task Collections for one User Story inside :trophy: goal mentioned in the title of this issue.
+
 ### Summary
 
 > DevOps link: none <!-- Example: AB#<item_number> -->
