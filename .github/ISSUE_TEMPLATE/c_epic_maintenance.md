@@ -10,7 +10,7 @@ This :crown: Epic represents all Collections and single tasks for maintenance in
 
 ### Summary
 
-> DevOps link: `none` <!-- Example: AB#<item_number> -->
+> DevOps link: none <!-- Example: AB#<item_number> -->
 
 No input
 

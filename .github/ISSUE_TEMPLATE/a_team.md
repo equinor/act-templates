@@ -10,11 +10,11 @@ title: "\U0001f680 <team_name>"
 
 Azure Champions Team FTE granted: `<number>`
 
-SAP info:
+<Team_Name> SAP timewriting:
 
-| Send.order | Item | Receiver WBS Element | Network | Activity | Work Ctr | Plant | Activity number | Description              |
-| ---------- | ---- | -------------------- | ------- | -------- | -------- | ----- | --------------- | ------------------------ |
-|            |      |                      |         |          |          |       |                 |                          |
+| Send.order | Item | Receiver WBS Element | Activity number |
+| ---------- | ---- | -------------------- | --------------- |
+|            |      |                      | 6680642/6680641 |
 
 Link to Equinor docs for project timewriting: <link_to_webpage>
 
