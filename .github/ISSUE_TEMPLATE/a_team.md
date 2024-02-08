@@ -14,7 +14,7 @@ Azure Champions Team FTE granted: `<number>`
 
 | Send.order | Item | Receiver WBS Element | Activity number |
 | ---------- | ---- | -------------------- | --------------- |
-|            |      |                      | 6680642/6680641 |
+|            |      |                      |                 |
 
 Link to Equinor docs for project timewriting: <link_to_webpage>
 
