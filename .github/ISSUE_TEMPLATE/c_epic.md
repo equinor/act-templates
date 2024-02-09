@@ -13,7 +13,7 @@ This :crown: Epic represents all :card_index: Task Collections for one User Stor
 
 > DevOps link: none <!-- Example: AB#<item_number> -->
 
-No input
+This epic includes collections related to ..... <!-- Summarise overall reason/goal for epic -->
 
 #### Acceptance Criteria
 

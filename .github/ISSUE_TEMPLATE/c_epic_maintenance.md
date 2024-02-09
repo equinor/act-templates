@@ -12,7 +12,7 @@ This :crown: Epic represents all Collections and single tasks for maintenance in
 
 > DevOps link: none <!-- Example: AB#<item_number> -->
 
-No input
+This epic includes collections and tasks related to maintenance of "Goal"..... <!-- Summarise overall reason for epic -->
 
 #### Acceptance Criteria
 

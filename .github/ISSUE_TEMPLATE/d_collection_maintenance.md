@@ -14,7 +14,7 @@ This is a maintenance collection that contains one or more groups of tasks. Reme
 
 > DevOps link: none <!-- Example: AB#<item_number> -->
 
-No input
+This collection includes tasks related to maintenance of..... <!-- Summarise overall reason for tasks in this collection -->
 
 #### Acceptance Criteria
 

@@ -12,7 +12,7 @@ title: "\U0001f4c7 c-<team_alias>:"
 
 > DevOps link: none <!-- Example: AB#<item_number> -->
 
-No input
+This collection includes tasks related to..... <!-- Summarise overall reason for tasks in this collection -->
 
 #### Acceptance Criteria
 

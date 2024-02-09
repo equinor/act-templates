@@ -14,7 +14,7 @@ Member of a Collection. Represents a single Pull Request or one manual operation
 
 > DevOps link: none <!-- Example: AB#<item_number> -->
 
-No input
+This task changes/maps/updates etc... <!-- Briefly explain task  -->
 
 #### Acceptance Criteria
 
