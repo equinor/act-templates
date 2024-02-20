@@ -10,7 +10,7 @@ This :crown: Epic represents all Collections and single tasks for maintenance in
 
 ### Summary
 
-> DevOps link: none <!-- Example: AB#<item_number> -->
+DevOps link: `none` / AB#ticketNumber
 
 This epic includes collections and tasks related to maintenance of "Goal"..... <!-- Summarise overall reason/goal for epic -->
 
