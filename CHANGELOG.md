@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.1](https://github.com/equinor/act-templates/compare/v2.0.0...v2.0.1) (2024-02-20)
+
+
+### Bug Fixes
+
+* task github link ([109c153](https://github.com/equinor/act-templates/commit/109c15372a745e91901ee981486bf7ccf8ddbf62))
+
 ## [2.0.0](https://github.com/equinor/act-templates/compare/v1.0.4...v2.0.0) (2024-02-08)
 
 
