@@ -12,7 +12,7 @@ Member of a Collection. Represents a single Pull Request or one manual operation
 
 ### Summary
 
-DevOps link: `none` / AB#ticketNumber
+DevOps link: AB#ticketNumber
 
 This task changes/maps/updates etc... <!-- Briefly explain task  -->
 

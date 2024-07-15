@@ -10,7 +10,7 @@ title: "\U0001f4c7 c-<team_alias>:"
 
 ### Summary
 
-DevOps link: `none` / AB#ticketNumber
+DevOps link: AB#ticketNumber
 
 This collection includes tasks related to..... <!-- Summarise overall reason for tasks in this collection -->
 
