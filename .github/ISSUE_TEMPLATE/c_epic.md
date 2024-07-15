@@ -11,7 +11,7 @@ This :crown: Epic represents all :card_index: Task Collections for one User Stor
 
 ### Summary
 
-DevOps link: `none` / AB#ticketNumber
+DevOps link: AB#ticketNumber
 
 This epic includes collections related to ..... <!-- Summarise overall reason/goal for epic -->
 

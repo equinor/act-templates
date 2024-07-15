@@ -12,7 +12,7 @@ This is a maintenance collection that contains one or more groups of tasks. Reme
 
 ### Summary
 
-DevOps link: `none` / AB#ticketNumber
+DevOps link: AB#ticketNumber
 
 This collection includes tasks related to maintenance of..... <!-- Summarise overall reason for tasks in this collection -->
 
